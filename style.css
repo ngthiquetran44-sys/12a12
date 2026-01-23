@@ -2,18 +2,22 @@ h1 {
  color: red;
 }
 .f1 {
- color: tomato;
- margin-top: 18pt;
- margin-bottom: 12pt;
+ color: purple;
+ margin-top: 15pt;
+ margin-bottom: 15pt;
  font-size: 20px
  font-weight: bold;
- font-family: Arial;
+ font-family: Times New Roman;
+ text-align: justify;
+ text-transform: uppercase;
 }
 .f2 {
  color: black;
- margin-top: 6pt;
- margin-bottom: 6pt;
+ margin-top: 12pt;
+ margin-bottom: 12pt;
  font-size: 15px
- font-weight: bold;
- font-family: Arial;
+ font-style: normal;
+ font-family: Times New Roman;
+ text-align: justify;
+ text-transform: capitalize;
 }
