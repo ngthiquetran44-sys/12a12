@@ -5,11 +5,11 @@
 }
 .header{
   flex: 20%;
-  background-color: green
+  background-color: green;
 }
 .menu{
   flex: 10%;
-  background-color: darkgreen 
+  background-color: darkgreen; 
 }
 .content{
   flex: 80%;
