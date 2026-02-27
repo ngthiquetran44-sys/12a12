@@ -19,6 +19,14 @@
   flex: 20%
   background-color: lightgray; 
 }
+.menu hover{
+  background-clor: lightgray;
+  color: black;
+}
+.menu a{
+  padding: 20px 25px;
+  color: pink;
+}
 h1 {
  color: red;
 }
