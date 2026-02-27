@@ -13,7 +13,11 @@
 }
 .content{
   flex: 80%;
-  bac
+  background-color: white; 
+}
+.footer{
+  flex: 20%
+  background-color: lightgray; 
 }
 h1 {
  color: red;
