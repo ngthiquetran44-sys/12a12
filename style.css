@@ -5,11 +5,11 @@
 }
 .header{
   flex: 20%;
-  background-color: green;
+  background-color: pink;
 }
 .menu{
   flex: 5%;
-  background-color: darkgreen; 
+  background-color: darkpink; 
 }
 .content{
   flex: 80%;
@@ -17,10 +17,10 @@
 }
 .footer{
   flex: 20%
-  background-color: lightgray; 
+  background-color: lightpink; 
 }
 .menu hover{
-  background-clor: lightgray;
+  background-clor: lightpink;
   color: black;
 }
 .menu a{
