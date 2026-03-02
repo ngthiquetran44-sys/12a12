@@ -14,7 +14,7 @@
 }
 .content{
   flex: 80%;
-  background-color: white; 
+  background-color: pink; 
 }
 .footer{
   flex: 20%
