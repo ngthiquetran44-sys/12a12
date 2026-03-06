@@ -5,6 +5,7 @@
 }
 .header{
   flex: 20%;
+  background-color: pink;
   
 }
 .menu{
@@ -19,13 +20,13 @@
   flex: 20%;
   background-color: lightpink; 
 }
-.menu a: hover{
-  background-clor: lightpink;
-  color: black;
-}
 .menu a{
   padding: 20px 25px;
   color: pink;
+}
+.menu a: hover{
+  background-color: lightpink;
+  color: black;
 }
 .content iframe{
   flex: 1;
