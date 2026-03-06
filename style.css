@@ -19,7 +19,7 @@
   flex: 20%;
   background-color: lightpink; 
 }
-.menu hover{
+.menu a: hover{
   background-clor: lightpink;
   color: black;
 }
